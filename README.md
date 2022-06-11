@@ -13,6 +13,6 @@ touch index.html
 git remote add origin <url>    
 this should be the url from your created repo(use https) 
 ## Push to GitHub
-git add index.html
-git commit -m "Create index.html"
-git push origin master
+git add index.html  
+git commit -m "Create index.html"  
+git push origin master  
