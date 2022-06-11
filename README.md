@@ -1,4 +1,4 @@
-## utiva-git-class-Azure-cloud-developer-program
+## Utiva's git class Azure cloud developer program
 ###  Training to introduce the cohort on how to push from their local environment to github
 Downloaded Gitbash (https://git-scm.com/downloads)
 ## configure  gitbash
